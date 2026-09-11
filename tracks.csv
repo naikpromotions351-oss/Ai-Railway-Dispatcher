@@ -1,0 +1,7 @@
+segment_id,segment_name,line_name,max_speed_kmh,status
+SEG_101,North Corridor Sector 1,North Line,160,Operational
+SEG_102,North Corridor Sector 2,North Line,160,Operational
+SEG_103,East Junction Main,East Line,120,Operational
+SEG_104,West Coast Pass,West Line,200,Operational
+SEG_105,Central Hub Transitway,Central Line,140,Operational
+SEG_106,South Sector Bypass,South Line,100,Under Maintenance

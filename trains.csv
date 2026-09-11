@@ -1,0 +1,9 @@
+train_id,train_name,train_type,operator
+TRN_1144,Express Aurora,Passenger,National Rail
+TRN_1106,Cargo Titan,Freight,LogiTrans
+TRN_1009,Bullet Zephyr,High-Speed,SwiftRail
+TRN_1047,Metro Commuter A,Passenger,CityTransit
+TRN_1113,Iron Freight 40,Freight,LogiTrans
+TRN_1015,Bullet Orion,High-Speed,SwiftRail
+TRN_1034,Metro Commuter B,Passenger,CityTransit
+TRN_1012,Pacific Cruiser,Passenger,National Rail
